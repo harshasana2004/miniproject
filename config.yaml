@@ -1,0 +1,9 @@
+# Absolute path to dataset root directory
+path: C:\Users\harsh\PycharmProjects\mahesh_helmet\helmet-detection\datasets\helmet_dataset
+
+train: images/train
+val: images/valid
+test: images/test
+
+nc: 2
+names: ['helmet', 'no-helmet']
